@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="GroupRun" verbose="1" > 
+<test name="GroupRun">
+  <classes> 
+  <class name="Com.hrms.TestScripts.TC001"/>
+<class name="Com.hrms.TestScripts.TC002"/>
+</classes>
+</test>
+</suite>
